@@ -37,33 +37,54 @@ Through data collection, preprocessing, and feature extraction, the model applie
 
 # Creating group of ages:
 ![image](https://github.com/user-attachments/assets/798a795f-560d-4c7a-b81a-a6fc8215150d)
+![image](https://github.com/user-attachments/assets/a9ee3e53-84d6-46d1-927a-90c4538ff133)
+
 
 # Creating groups of ‘Spending Score’ column and visualizing it:
 ![image](https://github.com/user-attachments/assets/4a659206-e21a-4074-bdad-06423bb911ad)
+![image](https://github.com/user-attachments/assets/082159ae-5fb4-4daa-8b9c-1b044c120db2)
+
 
 ## Creating groups for ‘Annual Income’ column and visualizing it:
 ![image](https://github.com/user-attachments/assets/0471f649-5b01-47b5-81b7-4636add312cf)
+![image](https://github.com/user-attachments/assets/d9239b7c-7d5f-479a-a8d1-b81cc8654631)
+
 
 #Let’s also create a relation plot between the ‘Annual Income’ column and ‘Spending Score’ column.
 ![image](https://github.com/user-attachments/assets/219b94ea-6311-4f04-b678-a69464de986a)
+![image](https://github.com/user-attachments/assets/6503d165-dd94-468c-b7bd-33f8a7a3638c)
+
 
 # number of clusters
 ![image](https://github.com/user-attachments/assets/b61a9352-4ba5-4c84-9160-0d5b8258e1a5)
+![image](https://github.com/user-attachments/assets/9e05ccd6-6e0e-48ab-8ffd-cd5a2a05aed7)
+
+
 
 #Fit that clusters into KMeans model and predict labels, and also find centroids:
 ![image](https://github.com/user-attachments/assets/263afc4d-c3e6-4528-8104-bb38407ad49f)
+![image](https://github.com/user-attachments/assets/1fd9c5d7-127e-4b45-b50d-f98973182d69)
+
 
 # Creating Clusters based on Annual Income and Spending Score:
 ![image](https://github.com/user-attachments/assets/5e40039c-174b-42e9-9912-091ddcfbb1cf)
+![image](https://github.com/user-attachments/assets/5ac6921b-029e-4c54-926f-1cbea67927c4)
+
+
 
 # fit this into our KMeans algorithm and predict labels and also find centroids:
 ![image](https://github.com/user-attachments/assets/143d5769-d9b6-4110-b4d2-8bcbfb7b46cf)
+![image](https://github.com/user-attachments/assets/a20a2ed0-0090-495f-9c31-179474270172)
+
 
 # Creating a Clusters based on Age, Annual Income, and Spending Score:
 ![image](https://github.com/user-attachments/assets/039781c4-6c67-42cb-9530-b261d8727df4)
+![image](https://github.com/user-attachments/assets/e2db1ea1-5736-4f9c-8a27-17c51b78e713)
 
-3D graph as there are three dimensions each dimension corresponding to one column.
+
+# 3D graph as there are three dimensions each dimension corresponding to one column.
 ![image](https://github.com/user-attachments/assets/8e47a0f0-d5e4-4f34-ab46-c4ca50ffeafe)
+![image](https://github.com/user-attachments/assets/c442c71d-a25d-4808-b136-110779cd686d)
 
 Note: These metrics can be customized based on your actual performance evaluations.
 
